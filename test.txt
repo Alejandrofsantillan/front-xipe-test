@@ -1,0 +1,4 @@
+1. create a context and fetch api and put it on a state 
+2. create a component and consume that state inside of the context
+3. create cards with the name of the characters and img 4 card per row
+4. create a search bar and filter by name 
